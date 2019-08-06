@@ -297,6 +297,8 @@ github.com/dominiksimek/krakend-martian v0.0.0-20190722152850-cf3166d48da9 h1:ZI
 github.com/dominiksimek/krakend-martian v0.0.0-20190722152850-cf3166d48da9/go.mod h1:5SjdOLlpAmExY0rTc6Gu/WX022xQkY0uLudNqprmJaI=
 github.com/dominiksimek/krakend-martian v0.0.0-20190723130341-021dfc60cf35 h1:2GJeQPo02iJpkqUp7Qgs4A//zBG4G2vbHXPPKYUSk2Y=
 github.com/dominiksimek/krakend-martian v0.0.0-20190723130341-021dfc60cf35/go.mod h1:5SjdOLlpAmExY0rTc6Gu/WX022xQkY0uLudNqprmJaI=
+github.com/dominiksimek/krakend-martian v0.0.0-20190805143134-655e1f8903ea h1:OsTn+lxLld1ClxzWR+qCh4Rqe92ilXyMmu+q7g1+p1Q=
+github.com/dominiksimek/krakend-martian v0.0.0-20190805143134-655e1f8903ea/go.mod h1:5SjdOLlpAmExY0rTc6Gu/WX022xQkY0uLudNqprmJaI=
 github.com/duosecurity/duo_api_golang v0.0.0-20181024123116-92fea9203dbc/go.mod h1:UqXY1lYT/ERa4OEAywUqdok1T4RCRdArkhic1Opuavo=
 github.com/duosecurity/duo_api_golang v0.0.0-20190107154727-539434bf0d45/go.mod h1:UqXY1lYT/ERa4OEAywUqdok1T4RCRdArkhic1Opuavo=
 github.com/dustin/go-humanize v1.0.0/go.mod h1:HtrtbFcZ19U5GC7JDqmcUSB87Iq5E25KnS6fMYU6eOk=

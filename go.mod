@@ -101,6 +101,6 @@ require (
 )
 
 replace (
-	github.com/devopsfaith/krakend-martian => github.com/dominiksimek/krakend-martian v0.0.0-20190723130341-021dfc60cf35
+	github.com/devopsfaith/krakend-martian => github.com/dominiksimek/krakend-martian v0.0.0-20190805143134-655e1f8903ea
 	github.com/ugorji/go v1.1.4 => github.com/ugorji/go/codec v0.0.0-20190204201341-e444a5086c43
 )
