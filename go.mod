@@ -99,4 +99,7 @@ require (
 	gopkg.in/Graylog2/go-gelf.v2 v2.0.0-20180326133423-4dbb9d721348 // indirect
 )
 
-replace github.com/devopsfaith/krakend-martian => github.com/dominiksimek/krakend-martian v0.0.0-20190805143134-655e1f8903ea
+replace (
+	github.com/devopsfaith/krakend-jose => github.com/dominiksimek/krakend-jose v0.0.0-20190911152931-c35fe1a41586
+	github.com/devopsfaith/krakend-martian => github.com/dominiksimek/krakend-martian v0.0.0-20190805143134-655e1f8903ea
+)
