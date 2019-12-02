@@ -96,6 +96,6 @@ require (
 )
 
 replace (
-	github.com/devopsfaith/krakend-jose => github.com/dominiksimek/krakend-jose v0.0.0-20190911152931-c35fe1a41586
+	github.com/devopsfaith/krakend-jose => github.com/dominiksimek/krakend-jose v0.0.0-20191127132409-d08bbe101fd6
 	github.com/devopsfaith/krakend-martian => github.com/dominiksimek/krakend-martian v0.0.0-20190805143134-655e1f8903ea
 )
