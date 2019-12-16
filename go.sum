@@ -279,6 +279,8 @@ github.com/dominiksimek/krakend-jose v0.0.0-20190911152931-c35fe1a41586 h1:0d7td
 github.com/dominiksimek/krakend-jose v0.0.0-20190911152931-c35fe1a41586/go.mod h1:K4JKk+I2AIWbxjrFqxOTWSQ3eHfkk8UrfoHCRikx3Xc=
 github.com/dominiksimek/krakend-jose v0.0.0-20191127132409-d08bbe101fd6 h1:MhuAXz7AN4y4neWPWt+0ahSnOOmr65Pv+1hBrzufx2o=
 github.com/dominiksimek/krakend-jose v0.0.0-20191127132409-d08bbe101fd6/go.mod h1:K4JKk+I2AIWbxjrFqxOTWSQ3eHfkk8UrfoHCRikx3Xc=
+github.com/dominiksimek/krakend-jose v0.0.0-20191216113157-3031c7800be1 h1:PHv+1X6JsAr02URjOvgIXhwRSLAHNI7lxJarQbJB1F0=
+github.com/dominiksimek/krakend-jose v0.0.0-20191216113157-3031c7800be1/go.mod h1:K4JKk+I2AIWbxjrFqxOTWSQ3eHfkk8UrfoHCRikx3Xc=
 github.com/dominiksimek/krakend-martian v0.0.0-20190618124954-affd7f20cc19 h1:wngh9grMtjZbwJD0qSxiZT/n/sPsr8pZmVGeYyl2lf0=
 github.com/dominiksimek/krakend-martian v0.0.0-20190618124954-affd7f20cc19/go.mod h1:5SjdOLlpAmExY0rTc6Gu/WX022xQkY0uLudNqprmJaI=
 github.com/dominiksimek/krakend-martian v0.0.0-20190719152305-b6b530e9a3e2 h1:Nva8a4x23fcrZL46T6VCb7skIoGGPZuIH9FhGN2bzLo=
@@ -289,6 +291,8 @@ github.com/dominiksimek/krakend-martian v0.0.0-20190723130341-021dfc60cf35 h1:2G
 github.com/dominiksimek/krakend-martian v0.0.0-20190723130341-021dfc60cf35/go.mod h1:5SjdOLlpAmExY0rTc6Gu/WX022xQkY0uLudNqprmJaI=
 github.com/dominiksimek/krakend-martian v0.0.0-20190805143134-655e1f8903ea h1:OsTn+lxLld1ClxzWR+qCh4Rqe92ilXyMmu+q7g1+p1Q=
 github.com/dominiksimek/krakend-martian v0.0.0-20190805143134-655e1f8903ea/go.mod h1:5SjdOLlpAmExY0rTc6Gu/WX022xQkY0uLudNqprmJaI=
+github.com/dominiksimek/krakend-martian v0.0.0-20191216113300-913b264d1d9e h1:ToOC9LIE2Ia8kGX2v6qzd0zBYK/gcE0r2Lwbf8hOqiE=
+github.com/dominiksimek/krakend-martian v0.0.0-20191216113300-913b264d1d9e/go.mod h1:5SjdOLlpAmExY0rTc6Gu/WX022xQkY0uLudNqprmJaI=
 github.com/duosecurity/duo_api_golang v0.0.0-20181024123116-92fea9203dbc/go.mod h1:UqXY1lYT/ERa4OEAywUqdok1T4RCRdArkhic1Opuavo=
 github.com/duosecurity/duo_api_golang v0.0.0-20190107154727-539434bf0d45/go.mod h1:UqXY1lYT/ERa4OEAywUqdok1T4RCRdArkhic1Opuavo=
 github.com/dustin/go-humanize v1.0.0/go.mod h1:HtrtbFcZ19U5GC7JDqmcUSB87Iq5E25KnS6fMYU6eOk=
