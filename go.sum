@@ -275,6 +275,8 @@ github.com/docker/distribution v2.6.2+incompatible/go.mod h1:J2gT2udsDAN96Uj4Kfc
 github.com/docker/docker v0.0.0-20180422163414-57142e89befe/go.mod h1:eEKB0N0r5NX/I1kEveEz05bcu8tLC/8azJZsviup8Sk=
 github.com/docker/go-connections v0.4.0/go.mod h1:Gbd7IOopHjR8Iph03tsViu4nIes5XhDvyHbTtUxmeec=
 github.com/docker/go-units v0.3.3/go.mod h1:fgPhTUdO+D/Jk86RDLlptpiXQzgHJF7gydDDbaIK4Dk=
+github.com/dominiksimek/krakend-jose v0.0.0-20190123160919-6849570baa08 h1:ZgqvWfAA4Hl6BUBUwCNKk13hpAG8NTUs3Nz03uGRBK4=
+github.com/dominiksimek/krakend-jose v0.0.0-20190123160919-6849570baa08/go.mod h1:K4JKk+I2AIWbxjrFqxOTWSQ3eHfkk8UrfoHCRikx3Xc=
 github.com/dominiksimek/krakend-jose v0.0.0-20190911152931-c35fe1a41586 h1:0d7tdItwOgzdTvN7sMDwPLCU0b1TT5iz2yx+zv196DY=
 github.com/dominiksimek/krakend-jose v0.0.0-20190911152931-c35fe1a41586/go.mod h1:K4JKk+I2AIWbxjrFqxOTWSQ3eHfkk8UrfoHCRikx3Xc=
 github.com/dominiksimek/krakend-jose v0.0.0-20191127132409-d08bbe101fd6 h1:MhuAXz7AN4y4neWPWt+0ahSnOOmr65Pv+1hBrzufx2o=
