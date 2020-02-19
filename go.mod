@@ -13,7 +13,6 @@ require (
 	github.com/aliyun/alibaba-cloud-sdk-go v0.0.0-20190122153857-e0ace9b64d22 // indirect
 	github.com/andybalholm/cascadia v1.0.0 // indirect
 	github.com/araddon/gou v0.0.0-20190110011759-c797efecbb61 // indirect
-	github.com/auth0-community/go-auth0 v1.0.0 // indirect
 	github.com/boombuler/barcode v1.0.0 // indirect
 	github.com/briankassouf/jose v0.9.1 // indirect
 	github.com/catalinc/hashcash v0.0.0-20161205220751-e6bc29ff4de9 // indirect
@@ -163,7 +162,6 @@ require (
 	sigs.k8s.io/yaml v1.1.0 // indirect
 )
 
-replace (
-	github.com/devopsfaith/krakend-jose => github.com/dominiksimek/krakend-jose v0.0.0-20190123160919-6849570baa08
-	github.com/devopsfaith/krakend-martian => github.com/dominiksimek/krakend-martian v0.0.0-20191218134744-dbb039e6eb92
-)
+replace github.com/devopsfaith/krakend-jose => github.com/dominiksimek/krakend-jose v0.0.0-20200219160207-ce4607e6abe3
+
+replace github.com/devopsfaith/krakend-martian => github.com/dominiksimek/krakend-martian v0.0.0-20191218134744-dbb039e6eb92
