@@ -267,6 +267,8 @@ github.com/dominiksimek/krakend-jose v0.0.0-20200219160207-ce4607e6abe3 h1:rOoqa
 github.com/dominiksimek/krakend-jose v0.0.0-20200219160207-ce4607e6abe3/go.mod h1:cwnPCZWJe6aVSKPZDKfRX6gUvou0u6N86wLfkU7mBzU=
 github.com/dominiksimek/krakend-jose v0.0.0-20200219160919-ce4607e6abe3/go.mod h1:cwnPCZWJe6aVSKPZDKfRX6gUvou0u6N86wLfkU7mBzU=
 github.com/dominiksimek/krakend-jose v0.0.0-20200223160919-ce4607e6abe3/go.mod h1:cwnPCZWJe6aVSKPZDKfRX6gUvou0u6N86wLfkU7mBzU=
+github.com/dominiksimek/krakend-jose v0.0.0-20200325155120-21e78a00eaef h1:JK+mq0zYEHuSHye4PiIsU5njOy26IByXe9Oh3hJToPc=
+github.com/dominiksimek/krakend-jose v0.0.0-20200325155120-21e78a00eaef/go.mod h1:cwnPCZWJe6aVSKPZDKfRX6gUvou0u6N86wLfkU7mBzU=
 github.com/dominiksimek/krakend-martian v0.0.0-20190618124954-affd7f20cc19 h1:wngh9grMtjZbwJD0qSxiZT/n/sPsr8pZmVGeYyl2lf0=
 github.com/dominiksimek/krakend-martian v0.0.0-20190618124954-affd7f20cc19/go.mod h1:5SjdOLlpAmExY0rTc6Gu/WX022xQkY0uLudNqprmJaI=
 github.com/dominiksimek/krakend-martian v0.0.0-20190719152305-b6b530e9a3e2 h1:Nva8a4x23fcrZL46T6VCb7skIoGGPZuIH9FhGN2bzLo=

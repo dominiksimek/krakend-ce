@@ -162,6 +162,8 @@ require (
 	sigs.k8s.io/yaml v1.1.0 // indirect
 )
 
-replace github.com/devopsfaith/krakend-jose => github.com/dominiksimek/krakend-jose v0.0.0-20200219160207-ce4607e6abe3
+replace github.com/devopsfaith/krakend-jose => github.com/dominiksimek/krakend-jose v0.0.0-20200325155120-21e78a00eaef
+
+//replace github.com/devopsfaith/krakend-jose => /home/dsimek/go/src/github.com/dominiksimek/krakend-jose
 
 replace github.com/devopsfaith/krakend-martian => github.com/dominiksimek/krakend-martian v0.0.0-20191218134744-dbb039e6eb92
